@@ -1,0 +1,132 @@
+40SESEM1T	Discrete Mathematics	SESEM1T
+41SESEM1R	Discrete Mathematics	SESEM1R
+42SESEM1O	Discrete Mathematics	SESEM1O
+43SESEM1T	Digital Electronics and Logic Design	SESEM1T
+44SESEM1R	Digital Electronics and Logic Design	SESEM1R
+45SESEM1O	Digital Electronics and Logic Design	SESEM1O
+46SESEM1T	Data Structures and Algorithms	SESEM1T
+47SESEM1R	Data Structures and Algorithms	SESEM1R
+48SESEM1O	Data Structures and Algorithms	SESEM1O
+49SESEM1T	Computer Organization and Architecture	SESEM1T
+50SESEM1R	Computer Organization and Architecture	SESEM1R
+51SESEM1O	Computer Organization and Architecture	SESEM1O
+52SESEM1T	Object Oriented Programming	SESEM1T
+53SESEM1R	Object Oriented Programming	SESEM1R
+54SESEM1O	Object Oriented Programming	SESEM1O
+55SESEM2T	Engineering Mathematics III SESEM2T
+56SESEM2R	Engineering Mathematics III	 SESEM2R
+57SESEM2O	Engineering Mathematics III SESEM2O
+58SESEM2T	Computer Graphics	SESEM2T
+59SESEM2R	Computer Graphics	SESEM2R
+60SESEM2O	Computer Graphics	SESEM2O
+61SESEM2T	Advanced Data Structures	SESEM2T
+62SESEM2R	Advanced Data Structures	SESEM2R
+63SESEM2O	Advanced Data Structures	SESEM2O
+64SESEM2T	Microprocessor	SESEM2T
+65SESEM2R	Microprocessor	SESEM2R
+66SESEM2O	Microprocessor	SESEM2O
+67SESEM2T	Principles of Programming Languages	SESEM2T
+68SESEM2R	Principles of Programming Languages	SESEM2R
+69SESEM2O	Principles of Programming Languages	SESEM2O
+70TESEM1T	Theory of Computation	TESEM1T
+71TESEM1R	Theory of Computation	TESEM1R
+72TESEM1O	Theory of Computation	TESEM1O
+73TESEM1T	Operating Systems Design	TESEM1T
+74TESEM1R	Operating Systems Design	TESEM1R
+75TESEM1O	Operating Systems Design	TESEM1O
+76TESEM1T	Data Communication and Wireless Sensor Networks	TESEM1T
+77TESEM1R	Data Communication and Wireless Sensor Networks	TESEM1R
+78TESEM1O	Data Communication and Wireless Sensor Networks	TESEM1O
+79TESEM1T	Database Management Systems Applications	TESEM1T
+80TESEM1R	Database Management Systems Applications	TESEM1R
+81TESEM1O	Database Management Systems Applications	TESEM1O
+82TESEM1T	Computer Forensic and Cyber Applications	TESEM1T
+83TESEM1R	Computer Forensic and Cyber Applications	TESEM1R
+84TESEM1O	Computer Forensic and Cyber Applications	TESEM1O
+85TESEM2T	Principles of Concurrent and Distributed Programming	TESEM2T
+86TESEM2R	Principles of Concurrent and Distributed Programming	TESEM2R
+87TESEM2O	Principles of Concurrent and Distributed Programming	TESEM2O
+88TESEM2T	Embedded Operating Systems	TESEM2T
+89TESEM2R	Embedded Operating Systems	TESEM2R
+90TESEM2O	Embedded Operating Systems	TESEM2O
+91TESEM2T	Computer Networks	TESEM2T
+92TESEM2R	Computer Networks	TESEM2R
+93TESEM2O	Computer Networks	TESEM2O
+94TESEM2T	Software Engineering	TESEM2T
+95TESEM2R	Software Engineering	TESEM2R
+96TESEM2O	Software Engineering	TESEM2O
+97TESEM2T	Digital Signal Processing Applications	TESEM2T
+98TESEM2R	Digital Signal Processing Applications	TESEM2R
+99TESEM2O	Digital Signal Processing Applications	TESEM2O
+100BESEM1T	Design & Analysis of Algorithms	BESEM1T
+101BESEM1R	Design & Analysis of Algorithms	BESEM1R
+102BESEM1O	Design & Analysis of Algorithms	BESEM1O
+103BESEM1T	Principles of Modern Compiler Design 	BESEM1T
+104BESEM1R	Principles of Modern Compiler Design 	BESEM1R
+105BESEM1O	Principles of Modern Compiler Design 	BESEM1O
+106BESEM1T	Smart System Design and Applications	BESEM1T
+107BESEM1R	Smart System Design and Applications	BESEM1R
+108BESEM1O	Smart System Design and Applications	BESEM1O
+115BESEM2T	Software Design Methodologies and Testing	BESEM2T
+116BESEM2R	Software Design Methodologies and Testing	BESEM2R
+117BESEM2O	Software Design Methodologies and Testing	BESEM2O
+118BESEM2T	High Performance Computing 	BESEM2T
+119BESEM2R	High Performance Computing 	BESEM2R
+120BESEM2O	High Performance Computing 	BESEM2O
+121BESEM2T	Elective 3	BESEM2T
+122BESEM2R	Elective 3	BESEM2R
+123BESEM2O	Elective 3	BESEM2O
+124BESEM2T	Elective 4 Open Elective	BESEM2T
+125BESEM2R	Elective 4 Open Elective	BESEM2R
+126BESEM2O	Elective 4 Open Elective	BESEM2O
+127BESEM2T	Project	BESEM2T
+128BESEM2R	Project	BESEM2R
+129BESEM2O	Project	BESEM2O
+130BESEM1T Image Processing BESEM1T
+131BESEM1R Image Processing BESEM1R
+132BESEM1O Image Processing BESEM1O
+133BESEM1T Computer Network Design and Modeling BESEM1T
+134BESEM1R Computer Network Design and Modeling BESEM1R
+135BESEM1O Computer  Network  Design  and  Modeling BESEM1O 
+136BESEM1T Advanced  Computer  Programming BESEM1T
+137BESEM1R Advanced  Computer  Programming BESEM1R
+138BESEM1O Advanced  Computer  Programming BESEM1O
+139BESEM1T Data  Mining  Techniquesand  Applications BESEM1T
+140BESEM1R Data  Mining  Techniquesand  Applications BESEM1R
+141BESEM1O Data  Mining  Techniquesand  Applications BESEM1O
+142BESEM1T Problem  Solving  with  Gamification BESEM1T
+143BESEM1R Problem  Solving  with  Gamification BESEM1R
+144BESEM1O Problem  Solving  with  Gamification BESEM1O
+145BESEM1T Pervasive  Computing BESEM1T
+146BESEM1R Pervasive  Computing BESEM1R     
+147BESEM1O Pervasive  Computing BESEM1O     
+148BESEM1T Embedded  Security BESEM1T
+149BESEM1R Embedded  Security BESEM1R
+150BESEM1O Embedded  Security BESEM1O
+151BESEM1T Multidisciplinary  NLP BESEM1T  
+152BESEM2T Mobile  Computing BESEM2T     
+153BESEM2T Web  Technology BESEM2T
+154BESEM2T Cloud  Computing BESEM2T  
+155BESEM2T Cyber  Security BESEM2T 
+156BESEM2T Business  Analytic  and  Intelligence BESEM2T  
+157BESEM2T Operations  Research  for  Algorithms  in  Scientific Applications BESEM2T
+158BESEM2T Mobile  Applications BESEM2T     
+159BESEM2T Open  Elective BESEM2T
+160BESEM1R Multidisciplinary  NLP BESEM1R  
+161BESEM2R Mobile  Computing BESEM2R     
+162BESEM2R Web  Technology BESEM2R
+163BESEM2R Cloud  Computing BESEM2R  
+164BESEM2R Cyber  Security BESEM2R 
+165BESEM2R Business  Analytic  and  Intelligence BESEM2R  
+166BESEM2R Operations  Research  for  Algorithms  in  Scientific Applications BESEM2R
+167BESEM2R Mobile  Applications BESEM2R     
+168BESEM2R Open  Elective BESEM2R
+169BESEM1O Multidisciplinary  NLP BESEM1O  
+170BESEM2O Mobile  Computing BESEM2O     
+171BESEM2O Web  Technology BESEM2O
+172BESEM2O Cloud  Computing BESEM2O  
+173BESEM2O Cyber  Security BESEM2O
+174BESEM2O Business  Analytic  and  Intelligence BESEM2O
+175BESEM2O Operations  Research  for  Algorithms  in  Scientific Applications BESEM2O
+176BESEM2O Mobile  Applications BESEM2O     
+177BESEM2O Open  Elective BESEM2O
